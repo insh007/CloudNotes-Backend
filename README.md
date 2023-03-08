@@ -1,12 +1,15 @@
 # Project - CloudNotes Backend
 
-#### Make sure to check :
-
-## Frontened Repo :  
+## Make sure to check Frontened Repository :  
 https://github.com/insh007/CloudNotes-Frontened
 
 ## Deploy Link :
 
+## Overview
+CloudNotes is a tool that allows users to securely store their notes on the cloud, and that it provides them with the ability to manage and organize their notes in a convenient and efficient way.
+So the app eliminates the need for users to keep track of physical notebooks or sticky notes, or that it allows them to access their notes from anywhere with an internet connection.
+CloudNotes is a web app built with the MERN (MongoDB, Express, React, Node.js) stack that allows users to create, view, update, and delete notes online. The app provides a simple and intuitive interface, with a navbar that includes Home, About, Login, Sign Up, and Logout options.
+The authentication and authorization system ensures that each user can only access their own notes, or the ability to perform read, update, and delete operations on notes.
 
 ## Key points
 
