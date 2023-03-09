@@ -7,7 +7,7 @@ const cors = require('cors')
 const app = express()
 app.use(express.json())
 app.use(cors({
-    origin: ["http://localhost:3000", "https://cloudnotes-app.web.app"]
+    origin: ["http://localhost:3000", "https://cloud-notes-app.onrender.com"]
 }))
 
 mongoose.connect(process.env.MONGO_STRING, {
