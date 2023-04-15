@@ -1,6 +1,6 @@
 # Project - CloudNotes Backend
 
-## Make sure to check Frontened Repository :  
+## Make sure to check Frontend Repository :  
 https://github.com/insh007/CloudNotes-Frontened
 
 ## Deploy Link :
